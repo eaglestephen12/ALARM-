@@ -1,0 +1,7 @@
+requirements
+
+1. colorama
+2. pygame
+3. SpeechRecognition
+4. playsound
+5. itertools
